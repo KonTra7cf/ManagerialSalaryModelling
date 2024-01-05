@@ -1,4 +1,4 @@
-![Word Cloud Salary](images/wallpaper.png)
+![Word Cloud Salary](images/salary_word_cloud.jpg)
 
 
 <h1>Modeling and forecasting the volume of salaries for managerial positions in selected companies, listed on the Stock Exchange in Poland</h1>
