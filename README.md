@@ -68,7 +68,7 @@ The data was provided to participants in the form of an Excel file by the organi
 
 ## Teck stack
 
-- Python (refer to requirement.txt for the packages used in this project)
+- Python (refer to requirements.txt for the packages used in this project)
 
 ## Results
 
